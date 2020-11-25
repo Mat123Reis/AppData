@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="editText" type="id" />
+    <item name="dataView" type="id" />
+    <item name="editDate" type="id" />
+</resources>
